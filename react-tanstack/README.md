@@ -1,6 +1,5 @@
 # Tanstack Form + tanstack Router POC
 
-```
 - Build a simple login and logout function Using the freeapi.app
 - Learn tanstack Routing and Forms
 
@@ -12,4 +11,3 @@ TanStack Form provides a structured and type-safe way to handle those concerns, 
 
 So I wouldn't use it just because it's a library; I'd use it when the complexity of the form justifies the abstraction.”
 
-```
